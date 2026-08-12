@@ -4,10 +4,10 @@
    ========================================================================== */
 
 // 1. Google Ads Tracker Setup (Replace placeholders when launching campaigns)
-const GOOGLE_ADS_ID = ''; // Example: 'AW-123456789'
-const CALL_CONVERSION_LABEL = ''; // Example: 'AbC-D_efGhIjKLmN'
-const WHATSAPP_CONVERSION_LABEL = ''; // Example: 'OpQ-R_stUvWxYz12'
-const FORM_CONVERSION_LABEL = ''; // Example: '345-6_7890abcdef'
+const GOOGLE_ADS_ID = 'AW-18382974867'; // Example: 'AW-123456789'
+const CALL_CONVERSION_LABEL = 't738CKDXnOAcEJPf171E'; // Example: 'AbC-D_efGhIjKLmN'
+const WHATSAPP_CONVERSION_LABEL = 'XK9JCKPXnOAcEJPf171E'; // Example: 'OpQ-R_stUvWxYz12'
+const FORM_CONVERSION_LABEL = 'HeDUCOLanOAcEJPf171E'; // Example: '345-6_7890abcdef'
 
 // Dynamic Injection of gtag.js
 if (GOOGLE_ADS_ID) {
